@@ -6,4 +6,4 @@ for i in new_str:
         str2.append(i)
         continue
     str2.append(i.upper())
-print(' '.join(str2)) 
+print("The processed string is",' '.join(str2)) 
